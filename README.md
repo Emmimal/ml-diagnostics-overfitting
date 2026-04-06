@@ -6,7 +6,7 @@ Nine diagnostic tools for detecting and understanding overfitting in scikit-lear
  
 > **ML Diagnostics Mastery — Part 1:** Why Your Model Overfits (And How to Catch It)
  
-Companion code for the article published at [emitechlogic.com](https://emitechlogic.com/why-your-model-overfits-and-how-to-diagnose-it/).
+Companion code for the article published at [emitechlogic.com](https://emitechlogic.com/how-to-diagnose-overfitting-in-machine-learning-9-proven-tools/).
  
 Nine self-contained diagnostic functions that cover every major overfitting failure mode — from polynomial curve-fitting to data leakage detection. All experiments use synthetic data and fixed random seeds, so every number is fully reproducible.
  
@@ -153,7 +153,7 @@ This is Part 1 of the **ML Diagnostics Mastery** series.
 ## Article
  
 Full write-up with figures, analysis, and interpretation:
-[emitechlogic.com — Why Your Model Overfits (And How to Diagnose It)](https://emitechlogic.com/why-your-model-overfits-and-how-to-diagnose-it/)
+[emitechlogic.com — How to Diagnose Overfitting in Machine Learning — 9 Proven Tools](https://emitechlogic.com/how-to-diagnose-overfitting-in-machine-learning-9-proven-tools/)
  
 ---
  

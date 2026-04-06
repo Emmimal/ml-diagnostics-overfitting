@@ -165,7 +165,7 @@ If you use this code in your own work or teaching:
 @misc{ml_diagnostics_2026,
   title   = {ML Diagnostics Mastery Part 1: Why Your Model Overfits},
   author  = {Emmimal P Alexander},
-  year    = {2025},
+  year    = {2026},
   url     = {https://github.com/Emmimal/ml-diagnostics-overfitting},
   note    = {Companion code for the ML Diagnostics Mastery series}
 }
